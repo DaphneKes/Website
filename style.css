@@ -136,3 +136,13 @@ font-size:42px;
 }
 
 }
+
+.tagline{
+margin-top:24px;
+font-size:15px;
+font-weight:600;
+letter-spacing:.28em;
+text-transform:uppercase;
+color:#111;
+text-align:center;
+}
