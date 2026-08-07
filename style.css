@@ -51,11 +51,12 @@ nav a:hover{
     text-align:center;
 }
 
-.logo-image{
-    width:800px;
-    max-width:90%;
+ .logo-image{
+    width:75vw;
+    max-width:900px;
     height:auto;
     display:block;
+
 }
 
 .tagline{
