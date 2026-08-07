@@ -44,9 +44,11 @@ align-items:center;
 }
 
 .logo-image{
-width:min(900px,90vw);
+width:70vw;
+max-width:700px;
 height:auto;
 display:block;
+margin:auto;
 }
 
 .gallery{
