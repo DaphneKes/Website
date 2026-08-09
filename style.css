@@ -169,3 +169,11 @@ footer{
     }
 
 }
+.about a{
+    color:#d71920;
+    text-decoration:none;
+}
+
+.about a:hover{
+    opacity:.6;
+}
