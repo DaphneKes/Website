@@ -169,14 +169,6 @@ footer{
     }
 
 }
-.about a{
-    color:#d71920;
-    text-decoration:none;
-}
-
-.about a:hover{
-    opacity:.6;
-}
 .email-link{
     color:#d71920 !important;
     text-decoration:none;
