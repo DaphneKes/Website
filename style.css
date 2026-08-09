@@ -177,3 +177,11 @@ footer{
 .about a:hover{
     opacity:.6;
 }
+.email-link{
+    color:#d71920 !important;
+    text-decoration:none;
+}
+
+.email-link:hover{
+    opacity:.6;
+}
