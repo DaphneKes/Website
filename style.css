@@ -51,12 +51,11 @@ nav a:hover{
     text-align:center;
 }
 
- .logo-image{
-    width:75vw;
-    max-width:900px;
+.logo-image{
+    width:600px;
+    max-width:90%;
     height:auto;
     display:block;
-
 }
 
 .tagline{
@@ -102,6 +101,22 @@ nav a:hover{
     font-size:22px;
     line-height:1.8;
     margin-bottom:28px;
+}
+
+.contact-email{
+    margin-top:50px;
+}
+
+.contact-email a{
+    color:#d71920 !important;
+    text-decoration:none;
+    display:inline-block;
+    word-break:normal;
+    overflow-wrap:normal;
+}
+
+.contact-email a:hover{
+    opacity:.6;
 }
 
 footer{
@@ -158,6 +173,7 @@ footer{
 
     .about{
         margin-top:140px;
+        padding:0 24px;
     }
 
     .about h2{
@@ -166,14 +182,17 @@ footer{
 
     .about p{
         font-size:18px;
+        line-height:1.8;
     }
 
-}
-.email-link{
-    color:#d71920 !important;
-    text-decoration:none;
-}
+    .contact-email{
+        margin-top:45px;
+    }
 
-.email-link:hover{
-    opacity:.6;
+    .contact-email a{
+        font-size:18px;
+        white-space:nowrap;
+        word-break:normal;
+    }
+
 }
